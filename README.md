@@ -2,7 +2,7 @@
 
 用MacDown打开`.md`格式的文件，根据搜索的字符串匹配文件名或者文件内容。
 
-[下载](/SoSo/Alfred-workflow/raw/master/workflow/MacDown%20v1.0.alfredworkflow)
+[下载](https://github.com/SoSo/Alfred-workflow/raw/master/workflow/MacDown%20v1.0.alfredworkflow)
 
 ![macdown-workflow](/images/macdown-workflow.gif)
 
