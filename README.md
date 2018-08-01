@@ -9,5 +9,5 @@
 如果使用MWeb或者Mou可以通过修改图标以及脚本里面的应用名使用这个workflow。
 
 ```applescript
-set appPath to path to application "MacDown"
+set mdApp to application "MacDown"
 ```
